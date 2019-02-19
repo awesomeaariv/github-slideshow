@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+DO NOT SUBSCRIBE TO PEWDIEPIE
 Use the left arrow to go back!
